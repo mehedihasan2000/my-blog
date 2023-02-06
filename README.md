@@ -57,9 +57,9 @@ All in all, biotechnology has been changing the medical care industry as of late
 
 ## Reference:
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033695/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033695/)
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842269/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842269/)
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486912/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486912/)
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494455/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494455/)
-[https://www.wgu.edu/blog/medical-biotechnology-advancements-ethics1811.html#:~:text=What%20is%20Medical%20Biotechnology%3F,help%20treat%20and%20prevent%20diseases](https://www.wgu.edu/blog/medical-biotechnology-advancements-ethics1811.html#:~:text=What%20is%20Medical%20Biotechnology%3F,help%20treat%20and%20prevent%20diseases)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033695/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033695/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842269/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842269/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486912/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486912/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494455/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494455/)
+- [https://www.wgu.edu/blog/medical-biotechnology-advancements-ethics1811.html#:~:text=What%20is%20Medical%20Biotechnology%3F,help%20treat%20and%20prevent%20diseases](https://www.wgu.edu/blog/medical-biotechnology-advancements-ethics1811.html#:~:text=What%20is%20Medical%20Biotechnology%3F,help%20treat%20and%20prevent%20diseases)
 
