@@ -10,7 +10,8 @@
 example, actual assessment and side effects have been supplanted with hereditary testing and imaging procedures. Polymerase Chain Response (PCR) is a typical biotechnological strategy used to analyze hereditary problems, contaminations, and diseases. Attractive Reverberation Imaging (X-ray) and Figured Tomography (CT) examines are utilized to picture the interior designs of the body and analyze growths and wounds. Biotechnology has likewise assumed an urgent part in diagnosing illnesses. The improvement of new symptomatic apparatuses has made it conceivable to distinguish illnesses prior, which prompts improved results. For instance, biotechnology has prompted the advancement of blood tests that can recognize disease at a beginning phase. This has incredibly worked on the possibilities of fruitful treatment.
 
 
-[images (4)](https://user-images.g![images (4)](https://user-images.githubusercontent.com/123460502/216894476-d3ad559d-7a79-46c4-934c-9be32d9111f4.jpeg)
+![images (4)](https://user-images.githubusercontent.com/123460502/216895032-e65bbe09-ef37-4cf0-b360-12977ae98191.jpeg)
+
 
 
 
