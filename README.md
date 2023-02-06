@@ -38,7 +38,9 @@ example, actual assessment and side effects have been supplanted with hereditary
 #3.Privacy Concerns: Protection is a continuous issue in our innovation world, however perusing somebody's DNA is by all accounts a monster security break. Envision a specialist takes a gander at a small kid's DNA and figures out they are probably going to foster a coronary illness or terminal issue. Does their boss reserve the option to know that? Should this data influence their capacity to get a house or protection? HIPAA offers some security, yet as clinical biotechnology keeps on propelling the capacity to understand qualities, insurance agency, specialists, and state run administrations should think of new projects and protection strategies to match every one of the new necessities that will emerge.
 
 #Conclusion: All in all, biotechnology has been changing the medical care industry as of late. Progresses in biotechnology have altered how sicknesses are analyzed and treated and have likewise worked on the drug business. Notwithstanding, there are additionally a few moves that should be tended to, like the significant expense of medicines and absence of guidelines. By and by, with headways in biotechnology, the fate of medical care looks encouraging.
+
 #Reference:
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033695/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842269/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486912/
